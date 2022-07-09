@@ -9,3 +9,4 @@ You can download(or not) the papers you're interested in on PaperBox by putting 
 As a research doc management software, the most important function was to be managing the research docs. 
 
 You can share the paper or just one little part which you're interested in to your partners, co-works or friends on PaperBox, and they will see the exact you just shared along with you comment, text and images.
+
