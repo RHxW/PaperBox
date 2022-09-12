@@ -7,13 +7,15 @@ ERRORS = {
     103: "Destination dir path does not exist.",
     # 2 doc item
     200: "",
-    201: "",
+    201: "Doc item's name should not be empty or null.",
     # 3 render
     300: "",
     301: "",
     # 4 custom list
     400: "",
-    401: "Invalid item type."
+    401: "Invalid item type.",
+    405: "Key error: not exist.",
+    406: "Key error: duplicate key.",
 }
 
 

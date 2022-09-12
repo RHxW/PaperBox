@@ -1,5 +1,5 @@
-# PaperBox
-# P$\alpha$per$\beta$ox
+# PaperBox or PaperBoard or PaperBrief or PaperReviewBox or ReviewerBox
+# P$\alpha$per$\beta$ox / P$\alpha$per$\beta$oard / P$\alpha$per$\beta$rief / P$\alpha$per$\mathbb{R}$eview$\beta$ox / $\mathbb{R}$evie$\omega$er$\beta$ox
 
 ## What is PaperBox?
 PaperBox is a useful tool to help managing your research work, especially paper reading.
